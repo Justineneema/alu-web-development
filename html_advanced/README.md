@@ -1,11 +1,16 @@
-#HTML FOR WEBDEVELOPMENT
-THis project introduces participants to Advanced side of HTML in the African Leadership University.
+# alu-web-development - HTML Advanced
 
+## Introduction
 
-##Remarks
+This project focuses on building the HTML structure for a webpage based on a design provided in Figma.
 
--For the fonts that are unavailable locally, here are some links: [source-sans-pro](https://fonts.google.com/specimen/Source+Sans+Pro) and [Spin-Cycle-OT](https://www.fontsquirrel.com/fonts/Spin-Cycle).
+## Objectives
 
-The Breakdown of the project!
+* Implement a webpage from scratch using only HTML.
+* Focus on semantic structure without any CSS styling.
+* Utilize Figma to access the design details.
 
-<img src="html_advanced/Images/Screenshot 2025-01-16 102605.png" alt="Profile"/>
+## Figma Design
+
+The design file for this project is available on Figma:
+
