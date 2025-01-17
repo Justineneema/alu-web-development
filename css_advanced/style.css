@@ -594,10 +594,10 @@ body {
       font-size: 16px;
     }
   
-    .faq__inner > div > div > p {
+    /* .faq__inner > div > div > p {
       font-size: 12px;
     }
-  
+   */
     footer {
       padding: 10px;
     }
@@ -624,4 +624,3 @@ body {
       margin: 1rem;
     }
   }
-  
